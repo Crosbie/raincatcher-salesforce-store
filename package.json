@@ -1,0 +1,42 @@
+{
+  "name": "raincatcher-salesforce--store",
+  "version": "0.1.1",
+  "description": "An example package for storing Raincatcher data in salesforce",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crosbie/raincatcher-salesforce-store.git"
+  },
+  "keywords": [
+    "raincatcher",
+    "wfm",
+    "salesforce"
+  ],
+  "author": "ecrosbie@redhat.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Crosbie/raincatcher-salesforce-store/issues"
+  },
+  "homepage": "https://github.com/Crosbie/raincatcher-salesforce-store#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "fh-wfm-mediator": "^1.0.0-pre.2",
+    "google-spreadsheet": "^2.0.4",
+    "jsforce": "1.8.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "grunt-eslint": "18.0.0",
+    "grunt-mocha-test": "^0.13.2",
+    "load-grunt-tasks": "^3.5.2",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.7",
+    "sinon-as-promised": "^4.0.3",
+    "sinon-chai": "^2.11.0"
+  }
+}
