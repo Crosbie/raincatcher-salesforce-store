@@ -1,5 +1,5 @@
 {
-  "name": "raincatcher-salesforce--store",
+  "name": "raincatcher-salesforce-store",
   "version": "0.1.1",
   "description": "An example package for storing Raincatcher data in salesforce",
   "main": "lib/index.js",
