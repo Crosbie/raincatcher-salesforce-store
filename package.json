@@ -24,7 +24,6 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "fh-wfm-mediator": "^1.0.0-pre.2",
-    "google-spreadsheet": "^2.0.4",
     "jsforce": "1.8.0",
     "lodash": "^4.17.4"
   },
